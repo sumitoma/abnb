@@ -1,0 +1,16 @@
+.searchpage__info {
+    padding: 20px;
+}
+
+.searchpage__info > p {
+    font-size: 14px;
+    margin-bottom: 14px;
+}
+
+.searchpage__info > h1 {
+    margin-bottom: 30px;
+}
+
+.searchpage__info > .MuiChip-root {
+    margin: 5px;
+}

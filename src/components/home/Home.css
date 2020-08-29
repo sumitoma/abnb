@@ -1,0 +1,4 @@
+.home__card-row {
+    display: flex;
+    justify-content: space-around;
+}
